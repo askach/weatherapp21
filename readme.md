@@ -4,7 +4,7 @@ simple weather app
 technology app 
 
 ## lists
-cs
-pc
-v
-s
+- vite
+- sass
+- css
+
